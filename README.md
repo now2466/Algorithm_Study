@@ -3,6 +3,8 @@
 ###  Study For NKLCB Coding Test
 문제 선정 기준 : https://github.com/tony9402/baekjoon/blob/main/picked.md
 
+![다운로드](https://user-images.githubusercontent.com/57916633/141110250-f4d9c30f-9e0b-44eb-b41f-5c0dcc859073.png)
+
 |Name|Github|Blog|
 |------|---|---|
 |**강승완**|https://github.com/sdubee10|https://velog.io/@sdubee10|
