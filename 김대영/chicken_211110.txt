@@ -1,0 +1,21 @@
+import sys
+
+n, m = map(int, sys.stdin.readline().split())
+data_board = [list(map(int, sys.stdin.readline().split())) for _ in range(n)]
+
+index_list = []
+for i in range(m):
+    for j in range(i+1, m):
+        for k in range(j+1, m):
+            index_list.append([i, j, k])           
+
+answer = 0
+for index_num in index_list:
+    favor_list = []
+    for each in range(n):
+        temp = [data_board[each][index_num[0]], data_board[each][index_num[1]], data_board[each][index_num[2]]]
+        favor_list.append(temp)
+    max_favor = sum([max(favor) for favor in favor_list])
+    answer = max(answer, max_favor)
+
+print(answer)
