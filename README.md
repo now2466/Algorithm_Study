@@ -1,6 +1,6 @@
 # Algorithm Study
 
-### NKLCB CodingTest Study
+###  Study For NKLCB Coding Test
 
 
 |Name|Github|Blog|
