@@ -1,6 +1,6 @@
-# Algorithm_Study
+# Algorithm Study
 
-## NKLCB CodingTest Study
+### NKLCB CodingTest Study
 
 
 |Name|Github|Blog|
