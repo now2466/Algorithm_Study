@@ -1,7 +1,7 @@
 # Algorithm Study
 
 ###  Study For NKLCB Coding Test
-
+문제 출처 : https://github.com/tony9402/baekjoon/blob/main/picked.md
 
 |Name|Github|Blog|
 |------|---|---|
