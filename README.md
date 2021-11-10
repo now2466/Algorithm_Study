@@ -12,6 +12,7 @@
 
 
 ---
-|Date|No.|Name|Link|
-|------|------|-----|-----|
-|2021-11-10|16439|치킨치킨치킨|https://www.acmicpc.net/problem/16439|
+|Date|No.|Name|Link|Category|
+|------|------|-----|-----|-----|
+|2021-11-10|16439|치킨치킨치킨|https://www.acmicpc.net/problem/16439|DFS,BruteForce|
+||||||
