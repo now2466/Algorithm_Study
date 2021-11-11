@@ -5,6 +5,8 @@
 
 ![Python__Algorithm](https://user-images.githubusercontent.com/57916633/141115052-63522b4d-c507-4ec7-8ddd-b4293ca7a5c2.png)
 
+## Members
+
 |Name|Github|Blog|
 |------|---|---|
 |**강승완**|https://github.com/sdubee10|https://velog.io/@sdubee10|
@@ -12,7 +14,7 @@
 |**윤영민**|https://github.com/now2466|https://velog.io/@now2466|
 |**홍다솔**|https://github.com/solhong|https://velog.io/@do-it|
 
-
+## Problems
 ---
 |Date|No.|Name|Link|Category|
 |------|------|-----|-----|-----|
