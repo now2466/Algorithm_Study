@@ -21,5 +21,5 @@
 |Date|No.|Name|Link|Category|
 |------|------|-----|-----|-----|
 |2021-11-10|16439|치킨치킨치킨|https://www.acmicpc.net/problem/16439|DFS,BruteForce|
-|2021-11-11|17175|피보나치는 지겨웡~|https://www.acmicpc.net/problem/17175||
+|2021-11-11|17175|피보나치는 지겨웡~|https://www.acmicpc.net/problem/17175|DP|
 ||||||
