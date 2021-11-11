@@ -23,8 +23,8 @@
 |------|------|-----|-----|-----|
 |2021-11-10|16439|치킨치킨치킨|https://www.acmicpc.net/problem/16439|DFS,BruteForce|
 |2021-11-10|17175|피보나치는 지겨웡~|https://www.acmicpc.net/problem/17175|DP|
-|2021-11-11|16951|블록 놀이|https://www.acmicpc.net/problem/16951|
-|2021-11-11|2636|치즈|https://www.acmicpc.net/problem/2636|
+|2021-11-11|16951|블록 놀이|https://www.acmicpc.net/problem/16951|BruteForce|
+|2021-11-11|2636|치즈|https://www.acmicpc.net/problem/2636|BFS|
 ||||||
 
 ## Programmers
