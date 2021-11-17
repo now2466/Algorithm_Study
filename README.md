@@ -25,6 +25,9 @@
 |2021-11-10|17175|피보나치는 지겨웡~|https://www.acmicpc.net/problem/17175|DP|
 |2021-11-11|16951|블록 놀이|https://www.acmicpc.net/problem/16951|BruteForce|
 |2021-11-11|2636|치즈|https://www.acmicpc.net/problem/2636|BFS|
+|2021-11-16|11561|징검다리|https://github.com/tony9402/baekjoon/blob/main/picked.md#:~:text=11561,%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC|BinarySearch|
+|2021-11-16|16922|로마 숫자 만들기|https://www.acmicpc.net/problem/16922|BruteForce, Backtracking|
+|2021-11-16|2229|조짜기|https://www.acmicpc.net/problem/2229|DP|
 ||||||
 
 ## Programmers
@@ -32,6 +35,7 @@
 |------|-----|-----|-----|
 |2021-11-10|파일명 정렬|https://programmers.co.kr/learn/courses/30/lessons/17686|String|
 |2021-11-11|표 편집|https://programmers.co.kr/learn/courses/30/lessons/81303|String|
+|2021-11-17|압축|https://programmers.co.kr/learn/courses/30/lessons/17684|String|
 |||||
 
 ## Leetcode
