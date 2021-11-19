@@ -28,6 +28,11 @@
 |2021-11-16|11561|징검다리|https://www.acmicpc.net/problem/11561|BinarySearch|
 |2021-11-16|16922|로마 숫자 만들기|https://www.acmicpc.net/problem/16922|BruteForce, Backtracking|
 |2021-11-16|2229|조짜기|https://www.acmicpc.net/problem/2229|DP|
+|2021-11-17|19844|단어 개수 세기|https://www.acmicpc.net/problem/19844|구현,문자열|
+|2021-11-17|2212|센서|https://www.acmicpc.net/problem/2212|그리디,정렬|
+|2021-11-18|20436|ZOAC 3|https://www.acmicpc.net/problem/20436|구현,시뮬레이션,런타임 전의 전처리|
+|2021-11-18|20291|파일 정리|https://www.acmicpc.net/problem/20291|문자열,정렬,파싱|
+|2021-11-18|2075|N번째 큰 수|https://www.acmicpc.net/problem/2075|정렬,우선순위 큐|
 ||||||
 
 ## Programmers
@@ -36,6 +41,7 @@
 |2021-11-10|파일명 정렬|https://programmers.co.kr/learn/courses/30/lessons/17686|String|
 |2021-11-11|표 편집|https://programmers.co.kr/learn/courses/30/lessons/81303|String|
 |2021-11-17|압축|https://programmers.co.kr/learn/courses/30/lessons/17684|String|
+|2021-11-18|전력망을 둘로 나누기|https://programmers.co.kr/learn/courses/30/lessons/86971|인접행렬,인접리스트,DFS,BFS|
 |||||
 
 ## Leetcode
