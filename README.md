@@ -27,7 +27,7 @@
 |2021-11-11|2636|치즈|https://www.acmicpc.net/problem/2636|BFS|
 |2021-11-16|11561|징검다리|https://www.acmicpc.net/problem/11561|BinarySearch,수학|
 |2021-11-16|16922|로마 숫자 만들기|https://www.acmicpc.net/problem/16922|BruteForce, Backtracking|
-|2021-11-16|2229|조짜기|https://www.acmicpc.net/problem/2229|DP|
+|2021-11-16|2229|조짜기|https://www.acmicpc.net/problem/2229|다이나믹|
 |2021-11-17|19844|단어 개수 세기|https://www.acmicpc.net/problem/19844|구현,문자열|
 |2021-11-17|2212|센서|https://www.acmicpc.net/problem/2212|그리디,정렬|
 |2021-11-18|20436|ZOAC 3|https://www.acmicpc.net/problem/20436|구현,시뮬레이션,런타임 전의 전처리|
