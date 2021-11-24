@@ -33,6 +33,11 @@
 |2021-11-18|20436|ZOAC 3|https://www.acmicpc.net/problem/20436|구현,시뮬레이션,런타임 전의 전처리|
 |2021-11-18|20291|파일 정리|https://www.acmicpc.net/problem/20291|문자열,정렬,파싱|
 |2021-11-18|2075|N번째 큰 수|https://www.acmicpc.net/problem/2075|정렬,우선순위 큐|
+|2021-11-23|1463|1로 만들기|https://www.acmicpc.net/problem/1463|DP|
+|2021-11-23|15654|N과 M(5)|https://www.acmicpc.net/problem/15654|DFS|
+|2021-11-23|3005|크로스워드 퍼즐 쳐다보기|https://www.acmicpc.net/problem/3005|구현, 문자열, 파싱|
+|2021-11-23|2056|작업|https://www.acmicpc.net/problem/2056|위상정렬, DP|
+|2021-11-23|2252|줄 세우기|https://www.acmicpc.net/problem/2252|위상정렬|
 ||||||
 
 ## Programmers
