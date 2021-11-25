@@ -35,9 +35,10 @@
 |2021-11-18|2075|N번째 큰 수|https://www.acmicpc.net/problem/2075|정렬,우선순위 큐|
 |2021-11-23|1463|1로 만들기|https://www.acmicpc.net/problem/1463|DP|
 |2021-11-23|15654|N과 M(5)|https://www.acmicpc.net/problem/15654|DFS|
-|2021-11-23|3005|크로스워드 퍼즐 쳐다보기|https://www.acmicpc.net/problem/3005|구현, 문자열, 파싱|
-|2021-11-23|2056|작업|https://www.acmicpc.net/problem/2056|위상정렬, DP|
+|2021-11-23|3005|크로스워드 퍼즐 쳐다보기|https://www.acmicpc.net/problem/3005|구현,문자열,파싱|
+|2021-11-23|2056|작업|https://www.acmicpc.net/problem/2056|위상정렬,DP|
 |2021-11-23|2252|줄 세우기|https://www.acmicpc.net/problem/2252|위상정렬|
+|2021-11-23|1922|네트워크 연결|https://www.acmicpc.net/problem/1922|최소스패닝트리,크루스칼,Union&Find|
 ||||||
 
 ## Programmers
