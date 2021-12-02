@@ -39,6 +39,19 @@
 |2021-11-23|2056|작업|https://www.acmicpc.net/problem/2056|위상정렬,DP|
 |2021-11-23|2252|줄 세우기|https://www.acmicpc.net/problem/2252|위상정렬|
 |2021-11-23|1922|네트워크 연결|https://www.acmicpc.net/problem/1922|최소스패닝트리,크루스칼,Union&Find|
+|2021-11-25|1503|세 수 고르기|https://www.acmicpc.net/problem/1503|브루트포스|
+|2021-11-25|2565|전깃줄|https://www.acmicpc.net/problem/2565|다이나믹|
+|2021-11-29|1516|게임 개발|https://www.acmicpc.net/problem/1516|다이나믹,그래프,위상정렬|
+|2021-11-30|1766|문제집|https://www.acmicpc.net/problem/1766|그래프,우선순위큐,위상정렬|
+|2021-11-30|1647|도시 분할 계획|https://www.acmicpc.net/problem/1647|그래프,최소스패닝트리,크루스칼|
+|2021-11-30|2660|회장 뽑기|https://www.acmicpc.net/problem/2660|그래프,BFS,플로이드와샬|
+|2021-11-30|2042|구간 합 구하기|https://www.acmicpc.net/problem/2042|인덱스트리,세그먼트트리|
+|2021-11-30|11656|접미사 배열|https://www.acmicpc.net/problem/11656|문자열,정렬|
+|2021-11-30|13013|접미사 배열 2|https://www.acmicpc.net/problem/13013|문자열|
+|2021-11-30|12886|돌 그룹|https://www.acmicpc.net/problem/12886|그래프,BFS|
+|2021-12-01|2529|부등호|https://www.acmicpc.net/problem/2529|브루트포스,백트래킹,DFS|
+|2021-12-02|1972|놀라운 문자열|https://www.acmicpc.net/problem/1972|구현,문자열|
+|2021-12-02|1300|K번째 수|https://www.acmicpc.net/problem/1300|이분탐색|
 ||||||
 
 ## Programmers
@@ -49,6 +62,8 @@
 |2021-11-17|압축|https://programmers.co.kr/learn/courses/30/lessons/17684|String|
 |2021-11-18|전력망을 둘로 나누기|https://programmers.co.kr/learn/courses/30/lessons/86971|인접행렬,인접리스트,DFS,BFS|
 |2021-11-18|빛의 경로 사이클|https://programmers.co.kr/learn/courses/30/lessons/86052|구현,시뮬레이션,DFS|
+|2021-11-29|가장 먼 노드|https://programmers.co.kr/learn/courses/30/lessons/49189|그래프,다익스트라|
+|2021-11-29|섬 연결하기|https://programmers.co.kr/learn/courses/30/lessons/42861|그리디,최소스패닝트리,크루스칼|
 |||||
 
 ## Leetcode
