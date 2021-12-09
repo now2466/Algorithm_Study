@@ -52,6 +52,13 @@
 |2021-12-01|2529|부등호|https://www.acmicpc.net/problem/2529|브루트포스,백트래킹,DFS|
 |2021-12-02|1972|놀라운 문자열|https://www.acmicpc.net/problem/1972|구현,문자열|
 |2021-12-02|1300|K번째 수|https://www.acmicpc.net/problem/1300|이분탐색|
+|2021-12-06|3085|사탕 게임|https://www.acmicpc.net/problem/3085|구현,브루트포스|
+|2021-12-06|2616|소형기관차|https://www.acmicpc.net/problem/2616|다이나믹,누적 합|
+|2021-12-06|13460|구슬 탈출 2|https://www.acmicpc.net/problem/13460|구현,그래프,BFS|
+|2021-12-06|2133|타일 채우기|https://www.acmicpc.net/problem/2133|다이나믹|
+|2021-12-07|1182|부분수열의 합|https://www.acmicpc.net/problem/1182|브루트포스,백트래킹,DFS|
+|2021-12-08|4134|다음 소수|https://www.acmicpc.net/problem/4134|수학,소수판정|
+|2021-12-08|13019|A를 B로|https://www.acmicpc.net/problem/13019|그리디|
 ||||||
 
 ## Programmers
