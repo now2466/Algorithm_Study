@@ -59,6 +59,10 @@
 |2021-12-07|1182|부분수열의 합|https://www.acmicpc.net/problem/1182|브루트포스,백트래킹,DFS|
 |2021-12-08|4134|다음 소수|https://www.acmicpc.net/problem/4134|수학,소수판정|
 |2021-12-08|13019|A를 B로|https://www.acmicpc.net/problem/13019|그리디|
+|2021-12-09|21924|도시건설|https://www.acmicpc.net/problem/21924|그래프이론, 최소스패닝트리|
+|2021-12-09|1922|네트워크연결|https://www.acmicpc.net/problem/1922|그래프이론, 최소스패닝트리|
+|2021-12-09|14225|부분수열의 합|https://www.acmicpc.net/problem/14225|브루트포스|
+|2021-12-09|||||
 ||||||
 
 ## Programmers
