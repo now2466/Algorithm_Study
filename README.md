@@ -62,7 +62,11 @@
 |2021-12-09|21924|도시건설|https://www.acmicpc.net/problem/21924|그래프이론, 최소스패닝트리|
 |2021-12-09|1922|네트워크연결|https://www.acmicpc.net/problem/1922|그래프이론, 최소스패닝트리|
 |2021-12-09|14225|부분수열의 합|https://www.acmicpc.net/problem/14225|브루트포스|
-|2021-12-09|||||
+|2021-12-09|2753|윤년|https://www.acmicpc.net/problem/2753|수학,구현|
+|2021-12-09|21024|춤|https://www.acmicpc.net/problem/4836|구현,문자열,파싱|
+|2021-12-10|1212|8진수 2진수|https://www.acmicpc.net/problem/1212|수학,구현,문자열|
+|2021-12-10|12761|돌다리|https://www.acmicpc.net/problem/12761|그래프,BFS|
+|2021-12-10|15927|회문은 회문아니야!!|https://www.acmicpc.net/problem/15927|문자열,애도혹|
 ||||||
 
 ## Programmers
@@ -75,6 +79,12 @@
 |2021-11-18|빛의 경로 사이클|https://programmers.co.kr/learn/courses/30/lessons/86052|구현,시뮬레이션,DFS|
 |2021-11-29|가장 먼 노드|https://programmers.co.kr/learn/courses/30/lessons/49189|그래프,다익스트라|
 |2021-11-29|섬 연결하기|https://programmers.co.kr/learn/courses/30/lessons/42861|그리디,최소스패닝트리,크루스칼|
+|2021-12-23|문자열 압축|https://programmers.co.kr/learn/courses/30/lessons/60057|문자열|
+|2021-12-23|오픈채팅방|https://programmers.co.kr/learn/courses/30/lessons/42888|문자열,해싱|
+|2021-12-23|멀쩡한 사각형|https://programmers.co.kr/learn/courses/30/lessons/62048|수학|
+|2021-12-23|피보나치 수|https://programmers.co.kr/learn/courses/30/lessons/12945|다이나믹|
+|2021-12-23|JadenCase 문자열 만들기|https://programmers.co.kr/learn/courses/30/lessons/12951|문자열|
+|2021-12-23|N개의 최소공배수|https://programmers.co.kr/learn/courses/30/lessons/12953|수학|
 |||||
 
 ## Leetcode
