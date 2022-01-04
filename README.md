@@ -85,6 +85,13 @@
 |2021-12-23|피보나치 수|https://programmers.co.kr/learn/courses/30/lessons/12945|다이나믹|
 |2021-12-23|JadenCase 문자열 만들기|https://programmers.co.kr/learn/courses/30/lessons/12951|문자열|
 |2021-12-23|N개의 최소공배수|https://programmers.co.kr/learn/courses/30/lessons/12953|수학|
+|2021-12-24|기능개발|https://programmers.co.kr/learn/courses/30/lessons/42586|스택,큐|
+|2021-12-24|타겟 넘버|https://programmers.co.kr/learn/courses/30/lessons/43165|DFS,BFS|
+|2021-12-24|행렬 테두리 회전하기|https://programmers.co.kr/learn/courses/30/lessons/77485|구현|
+|2021-12-29|괄호 변환|https://programmers.co.kr/learn/courses/30/lessons/60058|스택|
+|2021-12-30|가장 큰 수|https://programmers.co.kr/learn/courses/30/lessons/42746|정렬|
+|2022-01-03|거리두기 확인하기|https://programmers.co.kr/learn/courses/30/lessons/81302|DFS,BFS|
+|2022-01-03|튜플|https://programmers.co.kr/learn/courses/30/lessons/64065|문자열,구현|
 |||||
 
 ## Leetcode
