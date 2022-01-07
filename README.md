@@ -43,7 +43,7 @@
 |2021-11-25|2565|전깃줄|https://www.acmicpc.net/problem/2565|다이나믹|
 |2021-11-29|1516|게임 개발|https://www.acmicpc.net/problem/1516|다이나믹,그래프,위상정렬|
 |2021-11-30|1766|문제집|https://www.acmicpc.net/problem/1766|그래프,우선순위큐,위상정렬|
-|2021-11-30|1647|도시 분할 계획|https://www.acmicpc.net/problem/1647|그래프,MST,크루스칼|
+|2021-11-30|1647|도시 분할 계획|https://www.acmicpc.net/problem/1647|그래프,최소스패닝트리(MST),크루스칼|
 |2021-11-30|2660|회장 뽑기|https://www.acmicpc.net/problem/2660|그래프,BFS,플로이드와샬|
 |2021-11-30|2042|구간 합 구하기|https://www.acmicpc.net/problem/2042|인덱스트리,세그먼트트리|
 |2021-11-30|11656|접미사 배열|https://www.acmicpc.net/problem/11656|문자열,정렬|
@@ -78,7 +78,7 @@
 |2021-11-18|전력망을 둘로 나누기|https://programmers.co.kr/learn/courses/30/lessons/86971|인접행렬,인접리스트,DFS,BFS|
 |2021-11-18|빛의 경로 사이클|https://programmers.co.kr/learn/courses/30/lessons/86052|구현,시뮬레이션,DFS|
 |2021-11-29|가장 먼 노드|https://programmers.co.kr/learn/courses/30/lessons/49189|그래프,다익스트라|
-|2021-11-29|섬 연결하기|https://programmers.co.kr/learn/courses/30/lessons/42861|그리디,최소스패닝트리,크루스칼|
+|2021-11-29|섬 연결하기|https://programmers.co.kr/learn/courses/30/lessons/42861|그리디,MST,크루스칼|
 |2021-12-23|문자열 압축|https://programmers.co.kr/learn/courses/30/lessons/60057|문자열|
 |2021-12-23|오픈채팅방|https://programmers.co.kr/learn/courses/30/lessons/42888|문자열,해싱|
 |2021-12-23|멀쩡한 사각형|https://programmers.co.kr/learn/courses/30/lessons/62048|수학|
