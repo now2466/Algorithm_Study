@@ -38,12 +38,12 @@
 |2021-11-23|3005|크로스워드 퍼즐 쳐다보기|https://www.acmicpc.net/problem/3005|구현,문자열,파싱|
 |2021-11-23|2056|작업|https://www.acmicpc.net/problem/2056|위상정렬,DP|
 |2021-11-23|2252|줄 세우기|https://www.acmicpc.net/problem/2252|위상정렬|
-|2021-11-23|1922|네트워크 연결|https://www.acmicpc.net/problem/1922|최소스패닝트리,크루스칼,Union&Find|
+|2021-11-23|1922|네트워크 연결|https://www.acmicpc.net/problem/1922|MST,크루스칼,Union&Find|
 |2021-11-25|1503|세 수 고르기|https://www.acmicpc.net/problem/1503|브루트포스|
 |2021-11-25|2565|전깃줄|https://www.acmicpc.net/problem/2565|다이나믹|
 |2021-11-29|1516|게임 개발|https://www.acmicpc.net/problem/1516|다이나믹,그래프,위상정렬|
 |2021-11-30|1766|문제집|https://www.acmicpc.net/problem/1766|그래프,우선순위큐,위상정렬|
-|2021-11-30|1647|도시 분할 계획|https://www.acmicpc.net/problem/1647|그래프,최소스패닝트리,크루스칼|
+|2021-11-30|1647|도시 분할 계획|https://www.acmicpc.net/problem/1647|그래프,MST,크루스칼|
 |2021-11-30|2660|회장 뽑기|https://www.acmicpc.net/problem/2660|그래프,BFS,플로이드와샬|
 |2021-11-30|2042|구간 합 구하기|https://www.acmicpc.net/problem/2042|인덱스트리,세그먼트트리|
 |2021-11-30|11656|접미사 배열|https://www.acmicpc.net/problem/11656|문자열,정렬|
@@ -59,8 +59,8 @@
 |2021-12-07|1182|부분수열의 합|https://www.acmicpc.net/problem/1182|브루트포스,백트래킹,DFS|
 |2021-12-08|4134|다음 소수|https://www.acmicpc.net/problem/4134|수학,소수판정|
 |2021-12-08|13019|A를 B로|https://www.acmicpc.net/problem/13019|그리디|
-|2021-12-09|21924|도시건설|https://www.acmicpc.net/problem/21924|그래프이론, 최소스패닝트리|
-|2021-12-09|1922|네트워크연결|https://www.acmicpc.net/problem/1922|그래프이론, 최소스패닝트리|
+|2021-12-09|21924|도시건설|https://www.acmicpc.net/problem/21924|그래프이론,MST|
+|2021-12-09|1922|네트워크연결|https://www.acmicpc.net/problem/1922|그래프이론,MST|
 |2021-12-09|14225|부분수열의 합|https://www.acmicpc.net/problem/14225|브루트포스|
 |2021-12-09|2753|윤년|https://www.acmicpc.net/problem/2753|수학,구현|
 |2021-12-09|21024|춤|https://www.acmicpc.net/problem/4836|구현,문자열,파싱|
