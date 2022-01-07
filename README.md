@@ -92,6 +92,10 @@
 |2021-12-30|가장 큰 수|https://programmers.co.kr/learn/courses/30/lessons/42746|정렬|
 |2022-01-03|거리두기 확인하기|https://programmers.co.kr/learn/courses/30/lessons/81302|DFS,BFS|
 |2022-01-03|튜플|https://programmers.co.kr/learn/courses/30/lessons/64065|문자열,구현|
+|2022-01-03|124 나라의 숫자|https://programmers.co.kr/learn/courses/30/lessons/12899|수학,구현|
+|2022-01-03|더 맵게|https://programmers.co.kr/learn/courses/30/lessons/42626|힙|
+|2022-01-06|짝지어 제거하기|https://programmers.co.kr/learn/courses/30/lessons/12973|스택,덱|
+|2022-01-06|메뉴 리뉴얼|https://programmers.co.kr/learn/courses/30/lessons/72411|브루트포스,부분집합,구현|
 |||||
 
 ## Leetcode
